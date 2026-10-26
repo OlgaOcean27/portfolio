@@ -6,3 +6,77 @@ Junior QA Engineer with hands-on practice in manual testing, including test docu
   ✔️ SDLC understanding
   ✔️ API Testing (Postman)
   ✔️ Paying attention to detail and analytical thinking
+  
+---
+
+# 📂 My Projects
+# 🪲 Bug Reports
+Collection of structured bug reports with clear steps, expected and actual results, severity.
+ ➢[View My Bug Reports](exxample)
+
+---
+# 📝 Test Cases
+Collection of detailed test scenarios for e-commerce shopping functionality, covering both positive and negative use cases. 
+ ➢[View My Test Cases ](exxample)
+
+---
+
+# 📜 Checklists
+A detailed checklist covering key functional checks, UI, and system behavior.
+ ➢[View My Checklists ](exxample)
+
+---
+
+# 📊 Database (SQL)
+SQL queries used for validating data integrity, relationships, and calculations.
+ ➢[SQL Practice](exxample)
+
+ ---
+
+# 📪 API Testing (Postman)
+Basic API testing using Swagger Petstore with CRUD operations.
+ ➢[View API Testing](exxample)
+
+---
+
+# 🐍 Python 
+Loops, Conditions, Functions, Processing data collections, Working with JSON.
+ ➢[View My Python Practice](exxample)
+
+---
+
+# ☕︎ Java
+  ➢[View My Java Practice](exxample)
+
+---
+
+# 🖍️ Tools
+
+✔️ Postman
+✔️ GitHub
+✔️ Chrome DevTools
+✔️ SQL (MySQL / basic queries)
+✔️ PyCharm
+✔️ Jira
+✔️ Android Studio
+✔️ Swagger
+
+–––––
+
+## 🔗 Contact
+
+➢ LinkedIn: www.linkedin.com/in/olga-kuznetsova-engineer27
+➢ Email: andreolgaa@gmail.com
+➢ telegram: @Olre_e
+  
+
+
+
+
+
+
+
+
+
+
+
