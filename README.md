@@ -1,6 +1,6 @@
 ## QA Portfolio — Kuznetsova Olga
 Junior QA Engineer with hands-on practice in manual testing, including test documentation, bug reporting, API testing, database validation
-# 👩‍💻 Skills
+### 👩‍💻 Skills
   ✔️ Manual testing
   ✔️ Creating test documentation: test-cases, bug-repots, checklists
   ✔️ SDLC understanding
@@ -9,48 +9,48 @@ Junior QA Engineer with hands-on practice in manual testing, including test docu
   
 ---
 
-## 📂 My Projects
-### 🪲 Bug Reports
+### 📂 My Projects
+#### 🪲 Bug Reports
 Collection of structured bug reports with clear steps, expected and actual results, severity.
  ➢[View My Bug Reports](exxample)
 
 ---
-# 📝 Test Cases
+#### 📝 Test Cases
 Collection of detailed test scenarios for e-commerce shopping functionality, covering both positive and negative use cases. 
  ➢[View My Test Cases ](exxample)
 
 ---
 
-# 📜 Checklists
+#### 📜 Checklists
 A detailed checklist covering key functional checks, UI, and system behavior.
  ➢[View My Checklists ](exxample)
 
 ---
 
-# 📊 Database (SQL)
+#### 📊 Database (SQL)
 SQL queries used for validating data integrity, relationships, and calculations.
  ➢[SQL Practice](exxample)
 
  ---
 
-# 📪 API Testing (Postman)
+#### 📪 API Testing (Postman)
 Basic API testing using Swagger Petstore with CRUD operations.
  ➢[View API Testing](exxample)
 
 ---
 
-# 🐍 Python 
+### 🐍 Python 
 Loops, Conditions, Functions, Processing data collections, Working with JSON.
  ➢[View My Python Practice](exxample)
 
 ---
 
-# ☕︎ Java
+### ☕︎ Java
   ➢[View My Java Practice](exxample)
 
 ---
 
-# 🖍️ Tools
+### 🖍️ Tools
 
 ✔️ Postman
 ✔️ GitHub
