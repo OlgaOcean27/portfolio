@@ -12,41 +12,41 @@ Junior QA Engineer with hands-on practice in manual testing, including test docu
 ### 📂 My Projects
 #### 🪲 Bug Reports
 Collection of structured bug reports with clear steps, expected and actual results, severity.
- ➢ [View My Bug Reports](exxample)
+- ➢ [View My Bug Reports](exxample)
 
 ---
 #### 📝 Test Cases
 Collection of detailed test scenarios for e-commerce shopping functionality, covering both positive and negative use cases. 
- ➢ [View My Test Cases ](exxample)
+- ➢ [View My Test Cases ](exxample)
 
 ---
 
 #### 📜 Checklists
 A detailed checklist covering key functional checks, UI, and system behavior.
- ➢ [View My Checklists ](exxample)
+- ➢ [View My Checklists ](exxample)
 
 ---
 
 #### 📊 Database (SQL)
 SQL queries used for validating data integrity, relationships, and calculations.
- ➢ [SQL Practice](exxample)
+- ➢ [SQL Practice](exxample)
 
  ---
 
 #### 📪 API Testing (Postman)
 Basic API testing using Swagger Petstore with CRUD operations.
- ➢ [View API Testing](exxample)
+- ➢ [View API Testing](exxample)
 
 ---
 
 ### 🐍 Python 
 Loops, Conditions, Functions, Processing data collections, Working with JSON.
- ➢ [View My Python Practice](exxample)
+- ➢ [View My Python Practice](exxample)
 
 ---
 
 ### ☕︎ Java
-  ➢ [View My Java Practice](exxample)
+-  ➢ [View My Java Practice](exxample)
 
 ---
 
