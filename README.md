@@ -12,7 +12,7 @@ Junior QA Engineer with hands-on practice in manual testing, including test docu
 ### 📂 My Projects
 #### 🪲 Bug Reports
 Collection of structured bug reports with clear steps, expected and actual results, severity.
-- ➢ [View My Bug Reports](exxample)
+- ➢ [View My Bug Reports](https://github.com/OlgaOcean27/portfolio/blob/c17717ad16dfebb453590974ea76366725a71426/bug-reports)
 
 ---
 #### 📝 Test Cases
