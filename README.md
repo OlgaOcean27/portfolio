@@ -41,7 +41,7 @@ Basic API testing using Swagger Petstore with CRUD operations.
 
 ### 🐍 Python 
 Loops, Conditions, Functions, Processing data collections, Working with JSON.
-- ➢ [View My Python Practice](exxample)
+- ➢ [View My Python Practice](https://github.com/OlgaOcean27/portfolio/blob/3c230cee8854aa368c855fcc60d4ddaa8b425371/python%20%20practice)
 
 ---
 
