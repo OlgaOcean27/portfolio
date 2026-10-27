@@ -1,4 +1,5 @@
-## Checklist for a catalog, searching and filtering forms ### [project ➤ https://practicesoftwaretesting.com]
+## Checklist for a catalog, searching and filtering forms 
+### [project ➤ https://practicesoftwaretesting.com]
 ### CH-001
 Description: Verify that items can be sorted by name in ascending alphabetical order (A–Z).
 ➤ Expected result: Items are displayed in alphabetical order, from A to Z.
