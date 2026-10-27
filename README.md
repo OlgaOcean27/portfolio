@@ -29,7 +29,7 @@ A detailed checklist covering key functional checks, UI, and system behavior.
 
 #### 📊 Database (SQL)
 SQL queries used for validating data integrity, relationships, and calculations.
-- ➢ [SQL Practice](exxample)
+- ➢ [SQL Practice](https://github.com/OlgaOcean27/portfolio/blob/9f9742d56830af34fa6a67e48091f16d7471ae20/SQL%20queries)
 
  ---
 
