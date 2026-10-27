@@ -1,5 +1,4 @@
-Collection of the testcases for the 
-[project ➤ https://practicesoftwaretesting.com]
+Collection of the testcases for the project ➤ (https://practicesoftwaretesting.com/)
 
 ### TTC-001 
 (positive)
@@ -15,10 +14,10 @@ Preconditions:
 Test Data: "Hammer"
 
 Test Steps:
-  1. Open the website.
-  2. Locate the Search field.
-  3. Enter Hammer in the Search field.
-  4. Click the Search button.
+  1. Open the website https://practicesoftwaretesting.com/.
+  2. Click on the Search field.
+  3. Enter "Hammer" in the Search field.
+  4. Press the Search button.
   5. Review the displayed search results.
 
 Expected Result:
