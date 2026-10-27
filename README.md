@@ -46,7 +46,7 @@ Loops, Conditions, Functions, Processing data collections, Working with JSON.
 ---
 
 ### ☕︎ Java
--  ➢ [View My Java Practice](exxample)
+-  ➢ [View My Java Practice](https://github.com/OlgaOcean27/portfolio/blob/3827189916f5307cba317bdc881381c9152fd500/java%20practice)
 
 ---
 
