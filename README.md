@@ -35,7 +35,7 @@ SQL queries used for validating data integrity, relationships, and calculations.
 
 #### 📪 API Testing (Postman)
 Basic API testing using Swagger Petstore with CRUD operations.
-- ➢ [View API Testing](exxample)
+- ➢ [View API Testing](https://github.com/OlgaOcean27/portfolio/tree/da5f28e6d2c730791420cd3d804daf49ed171970/API%20testing)
 
 ---
 
