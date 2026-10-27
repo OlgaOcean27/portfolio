@@ -1,1 +1,26 @@
+Collection of the testcases for the project ➤ [https://practicesoftwaretesting.com]
 
+### TTC-001 
+(positive)
+
+Summary: Verify that a user can search for an existing product.
+
+Preconditions:
+- The website is accessible.
+- The product catalog is loaded.
+- Browser (Version): Chrome 155.0.8059.40 
+- Environment: macOS 14.6, 2020
+
+Test Data: "Hammer"
+
+Test Steps:
+  1. Open the website.
+  2. Locate the Search field.
+  3. Enter Hammer in the Search field.
+  4. Click the Search button.
+  5. Review the displayed search results.
+
+Expected Result:
+- The search is performed successfully.
+- The results contain products matching the search query.
+- Each displayed product has its corresponding name and other product information.
