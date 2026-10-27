@@ -23,7 +23,7 @@ Collection of detailed test scenarios for e-commerce shopping functionality, cov
 
 #### 📜 Checklists
 A detailed checklist covering key functional checks, UI, and system behavior.
-- ➢ [View My Checklists ](exxample)
+- ➢ [View My Checklists ](https://github.com/OlgaOcean27/portfolio/blob/0cde33b13860bc8e2cffa52ccb87e2be22a06733/checklists)
 
 ---
 
