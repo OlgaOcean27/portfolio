@@ -3,7 +3,7 @@ This document contains simple bug reports during testing and self-studying
 
 #### BR-OO1
 ---
-### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The tools is not displayed on the page.
+### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The tools are not displayed on the page.
 
 ### Steps to Reproduce:
 1. Open the website https://practicesoftwaretesting.com/
