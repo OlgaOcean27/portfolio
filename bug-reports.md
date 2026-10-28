@@ -3,7 +3,7 @@ This document contains simple bug reports during testing and self-studying
 
 #### BR-OO1
 ---
-### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The tools are not displayed on the page.
+### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The products are not displayed on the page.
 
 ### Steps to Reproduce:
 1. Open the website https://practicesoftwaretesting.com/
@@ -14,9 +14,9 @@ This document contains simple bug reports during testing and self-studying
 6. Click on the check box in front of "Other".
 7. Pay attention to the displayed tools on the main page. 
 
-### Expected Result: Tools selected within a specific category is displayed on the main page once the corresponding checkbox is ticked and all tools in all categories are displayed when selected.
+### Expected Result: Products selected within a specific category is displayed on the main page once the corresponding checkbox is ticked and all products in all categories are displayed when selected.
 
-### Actual Result: Tools selected within a specific category is not displayed on the main page once the corresponding checkbox is ticked and all tools in all categories are not displayed when selected.
+### Actual Result: Products selected within a specific category is not displayed on the main page once the corresponding checkbox is ticked and all products in all categories are not displayed when selected.
 
 ### Severity: Major
 
