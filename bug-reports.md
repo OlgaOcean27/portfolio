@@ -43,3 +43,42 @@
 
 ---
 
+#### BR-002 — [Sorting Does Not Reset Pagination to the First Page]
+
+##### Summary: [Sorting] Changing the sort order on the last page does not reset pagination to the first page
+
+##### Preconditions:
+- ➤ The product catalogue contains multiple pages.
+- ➤ The user is on the last page of the catalogue (e.g., page 6).
+- ➤ Products are displayed on the current page.
+
+##### Steps to Reproduce:
+1. Open https://practicesoftwaretesting.com/
+2. Navigate to the last page of the product catalogue (e.g., page 6)
+3. Open the **Sort** dropdown.
+4. Select **Price (High – Low)**.
+5. Observe the current page number and the displayed products.
+
+##### Expected Result: The product catalogue is sorted by price in descending order across all pages, and pagination resets to the first page so that the most expensive products are displayed first.
+
+##### Actual Result: The selected sort order is applied, but the user remains on the last page. The most expensive products are displayed on the last page instead of the first page.
+
+##### Severity: Major (preliminarily)
+
+##### Priority: High (preliminarily)
+
+##### Environment: 
+- ➤ OS: macOS 14.6
+- ➤ Browser: Google Chrome 155.0.8059.40
+- ➤ URL: https://practicesoftwaretesting.com/
+
+##### Attachment: [https://drive.google.com/drive/folders/1URvMZ942VfnibVnyboB0liYWb4xSIPPq?usp=sharing]
+
+##### Fix Version/s: (not specified in the documentation)
+
+######  Reporter: OlgaOcean27
+
+---
+
+
+
