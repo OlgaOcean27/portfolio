@@ -6,9 +6,9 @@ This document contains simple bug reports during testing and self-studying
 ### Summary: All products disappear when any category checkbox is selected
 
 ### Preconditions:
-➤ The website is accessible.
-➤ The product list is displayed.
-➤ All category checkboxes are unchecked.
+ ➤ The website is accessible.
+ ➤ The product list is displayed.
+ ➤ All category checkboxes are unchecked.
 
 ### Steps to Reproduce:
 1. Open the website https://practicesoftwaretesting.com/
@@ -31,9 +31,9 @@ This document contains simple bug reports during testing and self-studying
 ### Priority: High (preliminarily)
 
 ### Environment: 
-➤ OS: macOS 14.6
-➤ Browser: Google Chrome 155.0.8059.40
-➤ URL: https://practicesoftwaretesting.com/
+ ➤ OS: macOS 14.6
+ ➤ Browser: Google Chrome 155.0.8059.40
+ ➤ URL: https://practicesoftwaretesting.com/
 
 ### Attachment: https://drive.google.com/drive/folders/1xFQtvyiKgmIp6ouIzU_6Q-9OGL1cQl2h?usp=sharing
 
