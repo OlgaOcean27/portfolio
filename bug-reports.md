@@ -72,7 +72,7 @@
 - ➤ Browser: Google Chrome 155.0.8059.40
 - ➤ URL: https://practicesoftwaretesting.com/
 
-##### Attachment: [https://drive.google.com/drive/folders/1URvMZ942VfnibVnyboB0liYWb4xSIPPq?usp=sharing]
+##### Attachment: https://drive.google.com/drive/folders/1URvMZ942VfnibVnyboB0liYWb4xSIPPq?usp=sharing
 
 ##### Fix Version/s: (not specified in the documentation)
 
