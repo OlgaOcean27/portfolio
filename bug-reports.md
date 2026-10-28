@@ -22,9 +22,9 @@ This document contains simple bug reports during testing and self-studying
 9. Uncheck all selected category checkboxes.
 10. Verify that all products are displayed again. 
 
-### Expected Result: When one category is selected, products belonging to that category are displayed. When multiple categories are selected, products belonging to the selected categories are displayed according to the filter logic. When all category checkboxes are unchecked, all products are displayed.
+### Expected Result: #### When one category is selected, products belonging to that category are displayed. When multiple categories are selected, products belonging to the selected categories are displayed according to the filter logic. When all category checkboxes are unchecked, all products are displayed.
 
-### Actual Result: All products disappear from the product list when any category checkbox is selected. Selecting additional category checkboxes does not display any products. All products reappear only after all category checkboxes are empty.
+### Actual Result: #### All products disappear from the product list when any category checkbox is selected. Selecting additional category checkboxes does not display any products. All products reappear only after all category checkboxes are empty.
 
 ### Severity: Major (preliminarily)
 
