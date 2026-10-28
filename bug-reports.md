@@ -3,14 +3,14 @@ This document contains simple bug reports during testing and self-studying
 
 #### BR-OO1 [All Products Disappear When a Category Filter Is Selected]
 ---
-### Summary: All products disappear when any category checkbox is selected
+##### Summary: All products disappear when any category checkbox is selected
 
-### Preconditions:
+##### Preconditions:
 - ➤ The website is accessible.
 - ➤ The product list is displayed.
 - ➤ All category checkboxes are unchecked.
 
-### Steps to Reproduce:
+##### Steps to Reproduce:
 1. Open the website https://practicesoftwaretesting.com/
 2. Verify that all category checkboxes are unchecked and products are displayed.
 3. Select the checkbox next to "Hand Tools".
@@ -22,24 +22,24 @@ This document contains simple bug reports during testing and self-studying
 9. Uncheck all selected category checkboxes.
 10. Verify that all products are displayed again. 
 
-### Expected Result: #### When one category is selected, products belonging to that category are displayed. When multiple categories are selected, products belonging to the selected categories are displayed according to the filter logic. When all category checkboxes are unchecked, all products are displayed.
+##### Expected Result: When one category is selected, products belonging to that category are displayed. When multiple categories are selected, products belonging to the selected categories are displayed according to the filter logic. When all category checkboxes are unchecked, all products are displayed.
 
-### Actual Result: #### All products disappear from the product list when any category checkbox is selected. Selecting additional category checkboxes does not display any products. All products reappear only after all category checkboxes are empty.
+##### Actual Result: All products disappear from the product list when any category checkbox is selected. Selecting additional category checkboxes does not display any products. All products reappear only after all category checkboxes are empty.
 
-### Severity: Major (preliminarily)
+##### Severity: Major (preliminarily)
 
-### Priority: High (preliminarily)
+##### Priority: High (preliminarily)
 
-### Environment: 
+##### Environment: 
 - ➤ OS: macOS 14.6
 - ➤ Browser: Google Chrome 155.0.8059.40
 - ➤ URL: https://practicesoftwaretesting.com/
 
-### Attachment: https://drive.google.com/drive/folders/1xFQtvyiKgmIp6ouIzU_6Q-9OGL1cQl2h?usp=sharing
+##### Attachment: https://drive.google.com/drive/folders/1xFQtvyiKgmIp6ouIzU_6Q-9OGL1cQl2h?usp=sharing
 
-### Fix Version/s: (not specified in the documentation)
+##### Fix Version/s: (not specified in the documentation)
 
-### Reporter: OlgaOcean27
+###### Reporter: OlgaOcean27
 
 ---
 
