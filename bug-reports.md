@@ -1,34 +1,43 @@
 This document contains simple bug reports during testing and self-studying
 
 
-#### BR-OO1
+#### BR-OO1 [All Products Disappear When a Category Filter Is Selected]
 ---
-### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The products are not displayed on the page.
+### Summary: All products disappear when any category checkbox is selected
+
+### Preconditions:
+➤ The website is accessible.
+➤ The product list is displayed.
+➤ All category checkboxes are unchecked.
+➤ Browser: Chrome 155.0.8059.40 
 
 ### Steps to Reproduce:
 1. Open the website https://practicesoftwaretesting.com/
-2. Click on the check box in front of "Hand Tools".
-3. Pay attention to the displayed tools on the main page.
-4. Click on the check box in front of "Power Tools".
-5. Pay attention to the displayed tools on the main page.
-6. Click on the check box in front of "Other".
-7. Pay attention to the displayed tools on the main page. 
+2. Verify that all category checkboxes are unchecked and products are displayed.
+3. Select the checkbox next to "Hand Tools".
+4. Verify that the product list is dispayed only "Hand tools".
+5. Select the checkbox next to "Power Tools" without unchecking "Hand Tools".
+6. Verify that the product list is displayed only "Power tools" and "Hand Tools"
+7. Select the checkbox next to "Other" without unchecking the previously selected categories.
+8. Verify that the product list is displayed " Other", "Hand Tools" and "Power Tools"
+9. Uncheck all selected category checkboxes.
+10. Pay attention to the system behaivior. 
 
-### Expected Result: Products selected within a specific category is displayed on the main page once the corresponding checkbox is ticked and all products in all categories are displayed when selected.
+### Expected Result: When one category is selected, products belonging to that category are displayed. When multiple categories are selected, products belonging to the selected categories are displayed according to the filter logic. When all category checkboxes are unchecked, all products are displayed.
 
-### Actual Result: Products selected within a specific category is not displayed on the main page once the corresponding checkbox is ticked and all products in all categories are not displayed when selected.
+### Actual Result: All products disappear from the product list when any category checkbox is selected. Selecting additional category checkboxes does not display any products. All products reappear only after all category checkboxes are empty.
 
-### Severity: Major
+### Severity: Major (preliminarily)
 
-### Priority: High
+### Priority: High (preliminarily)
 
 ### Environment: macOS 14.6
 
 ### Attachment: https://drive.google.com/drive/folders/1xFQtvyiKgmIp6ouIzU_6Q-9OGL1cQl2h?usp=sharing
 
-### Fix Version/s: 2024.11.0
+### Fix Version/s: (not specified in the documentation)
 
-### Reporter: Olga K
+### Reporter: OlgaOcean27
 
 ---
 
