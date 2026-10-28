@@ -1,4 +1,4 @@
-######## This document contains simple bug reports during testing and self-studying
+ This document contains simple bug reports during testing and self-studying
 
 
 #### BR-OO1 [All Products Disappear When a Category Filter Is Selected]
