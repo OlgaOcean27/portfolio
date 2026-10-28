@@ -1,79 +1,34 @@
 This document contains simple bug reports during testing and self-studying
 
 
-## BR-OO1
+#### BR-OO1
 ---
-# Summary: 
+### Summary: When checkboxes in the "Hand tools," "Power tools" or "Other" categories are selected—either individually or in combination — The tools is not displayed on the page.
 
-# Description: 
+### Steps to Reproduce:
+1. Open the website https://practicesoftwaretesting.com/
+2. Click on the check box in front of "Hand Tools".
+3. Pay attention to the displayed tools on the main page.
+4. Click on the check box in front of "Power Tools".
+5. Pay attention to the displayed tools on the main page.
+6. Click on the check box in front of "Other".
+7. Pay attention to the displayed tools on the main page. 
 
-# Steps to Reproduce:
-1.
-2.
-3. 
-4.
-5.
-6. 
+### Expected Result: Tools selected within a specific category is displayed on the main page once the corresponding checkbox is ticked and all tools in all categories are displayed when selected.
 
-# Expected Result:
+### Actual Result: Tools selected within a specific category is not displayed on the main page once the corresponding checkbox is ticked and all tools in all categories are not displayed when selected.
 
-# Actual Result:
+### Severity: Major
 
-# Severity:
+### Priority: High
 
-# Priority:
+### Environment: macOS 14.6
 
-# Environment:
+### Attachment: https://drive.google.com/drive/folders/1xFQtvyiKgmIp6ouIzU_6Q-9OGL1cQl2h?usp=sharing
 
-# Attachment:
+### Fix Version/s: 2024.11.0
 
-# Fix Version/s:
-
-# Reporter:
-
----
-
-## BUG-001: Second product card height differs from other product cards
-
-**Type:** UI  
-**Severity:** Minor  
-**Priority:** Medium  
-**Environment:** Windows 10 Pro / Chrome 140.0.7339.128  
-
-### Steps to Reproduce
-1. Open https://academybugs.com/find-bugs/  
-2. Observe the second product card "Dark Grey Jeans"
-
-### Expected Result
-All product cards have the same size and alignment
-
-### Actual Result
-The second product card has a smaller height than the others
+### Reporter: Olga K
 
 ---
 
-## BUG-002: Grand Total is calculated incorrectly in cart
-
-**Type:** Functional  
-**Severity:** Critical  
-**Priority:** High  
-**Environment:** Windows 10 Pro / Chrome 140.0.7339.128  
-
-### Steps to Reproduce
-1. Open https://academybugs.com/find-bugs/  
-2. Add any product to cart  
-3. Click "Update" under the Quantity field  
-4. Check the "Grand Total"
-
-### Expected Result
-Grand Total should equal Cart Subtotal plus Shipping
-
-### Actual Result
-Grand Total is calculated incorrectly
-
-### Screenshot
-
-![Grand Total Bug](./images/bug-002-total.png)
-
-### Notes
-This issue affects the final order amount
