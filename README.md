@@ -17,7 +17,7 @@ Collection of structured bug reports with clear steps, expected and actual resul
 ---
 #### 📝 Test Cases
 Collection of detailed test scenarios for e-commerce shopping functionality, covering both positive and negative use cases. 
-- ➢ [View My Test Cases ](https://github.com/OlgaOcean27/portfolio/blob/f205d50dbaf1ed8fc18ee2c9e650302b68ceab4b/test-cases)
+- ➢ [View My Test Cases ](https://github.com/OlgaOcean27/portfolio/blob/8cf93bf252bf61bbc5a35ed9724ae6641c7474c9/test-cases.md)
 
 ---
 
