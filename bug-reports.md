@@ -80,5 +80,40 @@
 
 ---
 
+#### BR-003 — [Search Field Is Cleared After Submitting a Query While Results Remain Filtered]
+
+##### Summary: [Search] Search field is cleared after submitting a query, but the results remain filtered by the previous query
+
+##### Preconditions:
+- ➤ The product catalogue is available.
+- ➤ The website is accessible.
+
+##### Steps to Reproduce:
+1. Open https://practicesoftwaretesting.com/
+2. Enter "drill" (for example) in the search field.
+3. Click the "Search" button.
+4. Pay attention and verify to the search field and the displayed products on the main page.
+5. Click the "Search" button several times while the search field is empty.
+6. Observe the displayed products.
+7. Click the "×" button in the search field.
+8. Observe the displayed products again.
 
 
+##### Expected Result: The search interface should consistently indicate whether a search filter is active. If the search field is cleared after submitting a query, the user should have a clear way to identify or reset the active filter. Submitting an empty search should behave consistently with the interface's search-reset behavior.
+
+##### Actual Result: After submitting the query drill, the search field becomes empty, but four products matching the previous query remain displayed. Clicking the Search button with an empty field does not reset the results. Clicking the × button clears the search and restores the full product catalogue.
+
+##### Severity: Minor (preliminarily)
+
+##### Priority: Medium (preliminarily)
+
+##### Environment: 
+- ➤ OS: macOS 14.6
+- ➤ Browser: Google Chrome 155.0.8059.40
+- ➤ URL: https://practicesoftwaretesting.com/
+
+##### Attachment: https://drive.google.com/drive/folders/1O-Q5Mo51fyomfI8fWAoNlgfWwGd-RJ6K?usp=sharing
+
+##### Fix Version/s: (not specified in the documentation)
+
+######  Reporter: OlgaOcean27
